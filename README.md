@@ -12,7 +12,7 @@ You can connect with me on [Twitter](https://twitter.com/Astrocodr), [Instagram]
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alome007&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alome007&layout=compact" />
 </div>
 
 <p align="left"> 
