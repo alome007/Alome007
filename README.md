@@ -1,8 +1,8 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-My name is Alome Daniel. I'm an Android Engineer at [FasterFosto](http://fasterfosto.com/), currently working on [FasterFosto App](https://play.google.com/store/apps/details?id=com.fasterfosto) - an app that provides easy and reliable Logistics  services. 
+My name is Alome Daniel. I'm a Mobile Engineer , currently working on [Collect App (IOS, Android and POS)](https://collect.africa) - an app enables one-off or recurring payment solutions to customers 
 
-I enjoy developing for Android 🤖, and I think my favorite thing to talk about is Internet of Things. 
+I enjoy developing for Android and IOS 🤖, and I think my favorite thing to talk about is Internet of Things. 
 
 Thanks for checking out my profile.
 
