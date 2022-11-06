@@ -13,14 +13,16 @@ You can connect with me on [Twitter](https://twitter.com/Astrocodr), [Instagram]
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alome007&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alome007&layout=compact" />
+  <br/><br/>
+ 
+  <b>Github Trophies</b><br/>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=zfinix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 </div>
 
 <br/>
 <p align="left"> 
   <b>Visitor count</b><br/>
-  <br/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alome007&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
-  <br/>
   <br/>
   <img src="https://profile-counter.glitch.me/alome007/count.svg" />
 </p>
