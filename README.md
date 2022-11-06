@@ -19,5 +19,8 @@ You can connect with me on [Twitter](https://twitter.com/Astrocodr), [Instagram]
 <p align="left"> 
   <b>Visitor count</b><br/>
   <br/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alome007&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+  <br/>
+  <br/>
   <img src="https://profile-counter.glitch.me/alome007/count.svg" />
 </p>
