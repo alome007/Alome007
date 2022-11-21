@@ -17,7 +17,7 @@ You can connect with me on [Twitter](https://twitter.com/Astrocodr), [Instagram]
  
   <b>Github Trophies</b><br/>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=zfinix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alome007&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 </div>
 
 <br/>
