@@ -1,8 +1,8 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-My name is Daniel Alome. I'm a Mobile Engineer; currently working on [Collect App (IOS, Android and POS)](https://collect.africa) - an app enables one-off or recurring payment solutions to customers 
+My name is Daniel Alome. I'm a Mobile Engineer; currently working on [Lemfi Android](https://play.google.com/store/apps/details?id=com.lemonadeFinance.android) - The preferred international payment app for everyone
 
-I enjoy developing for Android 🤖 and IOS , and I think my favorite thing to talk about is Internet of Things. 
+I enjoy developing for Android 🤖 and IOS , and I think my favorite thing to talk about is the Internet of Things. 
 
 Thanks for checking out my profile.
 
