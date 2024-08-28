@@ -1,6 +1,6 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-My name is Daniel Alome. I'm a Mobile Engineer; currently working on [Lemfi Android](https://play.google.com/store/apps/details?id=com.lemonadeFinance.android) - The preferred international payment app for everyone
+My name is Daniel Alome. I'm a Software Engineer; currently working on [Lemfi Android](https://play.google.com/store/apps/details?id=com.lemonadeFinance.android) - The preferred international payment app for everyone
 
 I enjoy developing for Android 🤖 and IOS , and I think my favorite thing to talk about is the Internet of Things. 
 
